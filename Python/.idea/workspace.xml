@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="344b819d-be6d-4d78-bc7b-5e16cfa412bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/prob16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob15.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob17.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,33 +34,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.prob1.executor": "Run",
-    "Python.prob10.executor": "Run",
-    "Python.prob15.executor": "Run",
-    "Python.prob16.executor": "Run",
-    "Python.prob2.executor": "Run",
-    "Python.prob3.executor": "Run",
-    "Python.prob4.executor": "Run",
-    "Python.prob5.executor": "Run",
-    "Python.prob6.executor": "Run",
-    "Python.prob7.executor": "Run",
-    "Python.prob8.executor": "Run",
-    "Python.prob9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/CodeProjects/Mixed/ProjectEuler/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.prob1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CodeProjects/Mixed/ProjectEuler/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.prob16">
     <configuration name="prob10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
@@ -209,7 +205,8 @@
       <updated>1734025959244</updated>
       <workItem from="1734025960260" duration="5076000" />
       <workItem from="1734032607315" duration="1435000" />
-      <workItem from="1734054104788" duration="1348000" />
+      <workItem from="1734054104788" duration="1490000" />
+      <workItem from="1734078270082" duration="336000" />
     </task>
     <servers />
   </component>
