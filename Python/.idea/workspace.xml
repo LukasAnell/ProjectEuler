@@ -43,38 +43,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.prob1.executor": "Run",
-    "Python.prob10.executor": "Run",
-    "Python.prob15.executor": "Run",
-    "Python.prob16.executor": "Run",
-    "Python.prob19.executor": "Run",
-    "Python.prob2.executor": "Run",
-    "Python.prob20.executor": "Run",
-    "Python.prob21.executor": "Run",
-    "Python.prob22.executor": "Run",
-    "Python.prob3.executor": "Run",
-    "Python.prob4.executor": "Run",
-    "Python.prob5.executor": "Run",
-    "Python.prob6.executor": "Run",
-    "Python.prob7.executor": "Run",
-    "Python.prob8.executor": "Run",
-    "Python.prob9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/CodeProjects/Mixed/ProjectEuler/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.prob1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CodeProjects/Mixed/ProjectEuler/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.prob15">
     <configuration name="prob15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
