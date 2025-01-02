@@ -1,3 +1,6 @@
+import math
+
+
 def main():
     sumAmicable = 0
     for i in range(1, 10_001):
@@ -10,7 +13,7 @@ def main():
 
 def sumDivisors(num):
     sum = 0
-    for i in range(1, num // 2 + 1):
+    for i in range(1, int(math.sqrt(num)) + 1):
         if num % i == 0:
             sum += i
     return sum

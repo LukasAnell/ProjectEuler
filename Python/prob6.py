@@ -4,7 +4,7 @@ def main():
     for i in range(1, 101):
         sumOfSquares += i * i
         squareOfSum += i
-    squareOfSum = squareOfSum ** 2
+    squareOfSum **= 2
     print(squareOfSum - sumOfSquares)
 
 if __name__ == '__main__':

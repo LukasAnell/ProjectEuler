@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="344b819d-be6d-4d78-bc7b-5e16cfa412bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/input18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descriptions/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descriptions/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descriptions/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descriptions/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descriptions/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob26.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob13.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob16.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prob17.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob21.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob23.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob6.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LukasAnell"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LukasAnell/ProjectEuler.git",
+    "accountId": "b9156f47-2fc5-42a3-9b27-1023aca61a06"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -47,6 +63,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.prob1.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob14.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob15.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob16.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob19.executor&quot;: &quot;Run&quot;,
@@ -54,6 +71,8 @@
     &quot;Python.prob20.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob21.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob23.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.prob25.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob3.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob4.executor&quot;: &quot;Run&quot;,
     &quot;Python.prob5.executor&quot;: &quot;Run&quot;,
@@ -64,7 +83,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/CodeProjects/Mixed/ProjectEuler/Python&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lukas/CodingProjects/ProjectEuler/Python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,30 +94,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.prob15">
-    <configuration name="prob15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lukas\CodingProjects\ProjectEuler\Python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prob25">
     <configuration name="prob16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -190,21 +192,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prob25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prob25" />
         <item itemvalue="Python.prob21" />
         <item itemvalue="Python.prob20" />
         <item itemvalue="Python.prob19" />
         <item itemvalue="Python.prob16" />
-        <item itemvalue="Python.prob15" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
-        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -220,7 +245,14 @@
       <workItem from="1734032607315" duration="1435000" />
       <workItem from="1734054104788" duration="1490000" />
       <workItem from="1734078270082" duration="336000" />
-      <workItem from="1734113912281" duration="3168000" />
+      <workItem from="1734113912281" duration="4232000" />
+      <workItem from="1734126335570" duration="38000" />
+      <workItem from="1734208065663" duration="23000" />
+      <workItem from="1734214185263" duration="393000" />
+      <workItem from="1734934158986" duration="2092000" />
+      <workItem from="1734960054348" duration="32000" />
+      <workItem from="1734981679030" duration="438000" />
+      <workItem from="1735222984472" duration="13000" />
     </task>
     <servers />
   </component>
@@ -244,21 +276,24 @@
     </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$prob14.coverage" NAME="prob14 Coverage Results" MODIFIED="1734935994269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob6.coverage" NAME="prob6 Coverage Results" MODIFIED="1734030923283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob3.coverage" NAME="prob3 Coverage Results" MODIFIED="1734029152827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob1.coverage" NAME="prob1 Coverage Results" MODIFIED="1734026216610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$prob23.coverage" NAME="prob23 Coverage Results" MODIFIED="1734935430301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob20.coverage" NAME="prob20 Coverage Results" MODIFIED="1734115120782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob9.coverage" NAME="prob9 Coverage Results" MODIFIED="1734032672262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob2.coverage" NAME="prob2 Coverage Results" MODIFIED="1734026772249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob10.coverage" NAME="prob10 Coverage Results" MODIFIED="1734033483779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob5.coverage" NAME="prob5 Coverage Results" MODIFIED="1734030391244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$prob22.coverage" NAME="prob22 Coverage Results" MODIFIED="1734117111055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$prob22.coverage" NAME="prob22 Coverage Results" MODIFIED="1734117197937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob8.coverage" NAME="prob8 Coverage Results" MODIFIED="1734032186790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob19.coverage" NAME="prob19 Coverage Results" MODIFIED="1734114756371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob15.coverage" NAME="prob15 Coverage Results" MODIFIED="1734054858933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob4.coverage" NAME="prob4 Coverage Results" MODIFIED="1734029687577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob7.coverage" NAME="prob7 Coverage Results" MODIFIED="1734031031908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$prob16.coverage" NAME="prob16 Coverage Results" MODIFIED="1734055013727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$prob21.coverage" NAME="prob21 Coverage Results" MODIFIED="1734115667382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$prob16.coverage" NAME="prob16 Coverage Results" MODIFIED="1734936117484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$prob25.coverage" NAME="prob25 Coverage Results" MODIFIED="1734982122334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

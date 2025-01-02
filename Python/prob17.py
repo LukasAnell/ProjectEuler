@@ -1,6 +1,5 @@
-from operator import index, indexOf
-
 from num2words import num2words
+
 
 def main():
     sumLetters = 0
